@@ -1,4 +1,4 @@
-- name: 七牛 QiNiu
+- name: 七牛云 QiNiu
   url: https://portal.qiniu.com/
   img: https://portal.qiniu.com//favicon.ico
   description: 七牛云--用于对象存储与cdn加速
@@ -6,7 +6,7 @@
   url: https://ziyuan.baidu.com/
   img: https://ziyuan.baidu.com//favicon.ico
   description: 百度站长工具--百度收录与站点数据统计
-- name: LeanCloud LeanCloud
+- name: LeanCloud
   url: https://console.leancloud.app/
   img: https://console.leancloud.app/favicon.ico
   description: leancloud--一站式后端云服务提供商,接入第三方后端服务

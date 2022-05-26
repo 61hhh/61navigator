@@ -2,7 +2,7 @@ favicon: https://cdn.jsdelivr.net/gh/61hhh/imageLake@main/iconMe.svg
 banner: https://cdn.jsdelivr.net/gh/61hhh/imageLake@main/lightBG.jpg
 
 logo:
-  expanded: https://cdn.jsdelivr.net/gh/61hhh/imageLake@main/sidebar3_1.png
+  expanded: https://cdn.jsdelivr.net/gh/61hhh/imageLake@main/sidebar3_2.png
   collapsed: https://cdn.jsdelivr.net/gh/61hhh/imageLake@main/iconMe.png
   dark: https://npm.elemecdn.com/hassan-assets/navi/logo_dark@2x.png
 
@@ -15,14 +15,20 @@ search: true
 
 menu:
   - name: 折腾
-    icon: iconfont icon-code
+    icon: far fa-star
     submenu:
       - name: 博览群书
         icon: iconfont icon-blog
         config: 博览群书
       - name: 云游四海
-        icon: iconfont icon-social
+        icon: iconfont icon-cherry
         config: 云游四海
+  - name: 码到成功
+    icon: iconfont icon-code
+    config: 码到成功
+  - name: 面面俱到
+    icon: iconfont icon-book
+    config: 面面俱到
 
 
 # about:
