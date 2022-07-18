@@ -1,0 +1,24 @@
+- name: 七牛云 QiNiu
+  url: https://portal.qiniu.com/
+  img: https://portal.qiniu.com//favicon.ico
+  description: 七牛云--用于对象存储与cdn加速
+- name: 百度站长 BaiDu
+  url: https://ziyuan.baidu.com/
+  img: https://ziyuan.baidu.com//favicon.ico
+  description: 百度站长工具--百度收录与站点数据统计
+- name: LeanCloud
+  url: https://console.leancloud.app/
+  img: https://console.leancloud.app/favicon.ico
+  description: leancloud--一站式后端云服务提供商,接入第三方后端服务
+- name: 谷歌Search GoogleSearch
+  url: https://search.google.com/
+  img: https://search.google.com/favicon.ico
+  description: 谷歌Search--比百度站长更强大迅速的站点数据统计
+- name: 路过图床 ImgTu
+  url: https://imgtu.com/
+  img: https://imgtu.com/content/images/system/favicon_1587118523486_91617a.png
+  description: 路过图床--图床工具
+- name: 聚合图床 SuperBed
+  url: https://www.superbed.cn/
+  img: https://www.superbed.cn/favicon.ico
+  description: 聚合图床--图床工具

@@ -14,21 +14,21 @@ search: true
 
 
 menu:
-  - name: 折腾
+  - name: MyWorld
     icon: far fa-star
     submenu:
-      - name: 博览群书
+      - name: BlogTool
         icon: iconfont icon-blog
-        config: 博览群书
-      - name: 云游四海
+        config: BlogTool
+      - name: Clouds
         icon: iconfont icon-cherry
-        config: 云游四海
-  - name: 码到成功
+        config: Clouds
+  - name: Coding
     icon: iconfont icon-code
-    config: 码到成功
-  - name: 面面俱到
+    config: Coding
+  - name: Interview
     icon: iconfont icon-book
-    config: 面面俱到
+    config: Interview
 
 
 # about:

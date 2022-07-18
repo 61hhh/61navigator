@@ -1,0 +1,36 @@
+- name: CS-Notes
+  url: http://www.cyc2018.xyz/
+  img: https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png
+  description: CS-Notes--CS-Notes面试核心笔记
+- name: JavaGuide
+  url: https://javaguide.cn/
+  img: https://javaguide.cn/favicon.ico
+  description: JavaGuide--Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- name: BugStack
+  url: https://bugstack.cn/
+  img: https://bugstack.cn/favicon.ico
+  description: BugStack--包含 Java 基础，面经手册，Netty4.x，手写Spring，用Java实现JVM，重学Java设计模式，SpringBoot中间件开发，IDEA插件开发，DDD系统架构项目开发，字节码编程...
+- name: pdai
+  url: https://www.pdai.tech/
+  img: https://www.pdai.tech/favicon.ico
+  description: pdai--包含 Java 基础，面经手册，Netty4.x，手写Spring，用Java实现JVM，重学Java设计模式，SpringBoot中间件开发，IDEA插件开发，DDD系统架构项目开发，字节码编程...
+- name: Java 程序员进阶之路
+  url: https://tobebetterjavaer.com/home.html
+  img: https://tobebetterjavaer.com/favicon.ico
+  description: Java程序员进阶之路x沉默王二
+- name: 小林coding
+  url: https://xiaolincoding.com/
+  img: https://xiaolincoding.com/icon.webp
+  description: 小林 x 图解计算机基础
+- name: ToBeTopJavaer
+  url: https://hollischuang.gitee.io/tobetopjavaer/#/
+  img: https://hollischuang.gitee.io/tobetopjavaer/icon/icon.JPG
+  description: tobetopjavaer--Java工程师成神之路
+- name: r2coding
+  url: https://www.r2coding.com/#/
+  img: https://www.r2coding.com/r2_static/img/favicon.ico
+  description: r2coding--本站取名为 r2coding，即 Road To Coding，意为编程自学之路，是自学编程以来所用资源和分享内容的大聚合。旨在为编程自学者提供一系列清晰的学习路线、靠谱的资源、高效的工具、和务实的文章，方便自己也方便他人。
+- name: javacore
+  url: https://dunwu.github.io/javacore/
+  img: https://dunwu.github.io/javacore/img/favicon.ico
+  description: javacore-- javacore 是一个 Java 核心技术教程
